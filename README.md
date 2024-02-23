@@ -21,6 +21,7 @@
 
 
 # 💻 Tech Stack's:
+<p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" width="80" height="35" style="margin-right:13px;">
 <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white" width="80" height="35" style="margin-right: 13px;">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" width="80" height="35" style="margin-right: 13px;">
@@ -42,6 +43,7 @@
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white" width="80" height="35" style="margin-right: 13px;">
 <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white" width="80" height="35" style="margin-right: 13px;">
 <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white" width="80" height="35" style="margin-right: 13px;">
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=12vishalkumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
